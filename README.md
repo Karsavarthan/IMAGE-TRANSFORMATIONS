@@ -51,7 +51,7 @@ i)Image Translation
 import cv2
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Qn4.jpg')
+image = cv2.imread('image.jpg')
 
 plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))  
 plt.title("Original Image")
@@ -115,26 +115,32 @@ plt.axis('off')
 
 ### Orginal image
 
+![Screenshot 2025-04-30 103826](https://github.com/user-attachments/assets/f76abd27-2fbf-49a1-a6e2-733b03564c4e)
+
 
 
 ### i)Image Translation
 
+![Screenshot 2025-04-30 103935](https://github.com/user-attachments/assets/7ec6de36-e398-4fcc-8360-56e7678cb241)
 
 
 
 ### ii) Image Scaling
 
+![Screenshot 2025-04-30 103942](https://github.com/user-attachments/assets/f120a6df-bb86-457a-b317-b7ad8c876347)
 
 
 
 ### iii)Image shearing
 
+![Screenshot 2025-04-30 103948](https://github.com/user-attachments/assets/9226cc16-058a-44e4-822a-643ddda348ee)
 
 
 
 ### iv)Image Reflection
 
 
+![Screenshot 2025-04-30 103955](https://github.com/user-attachments/assets/47aaee2e-0a1b-48db-bfa2-5416701d6afb)
 
 
 
@@ -142,12 +148,15 @@ plt.axis('off')
 ### v)Image Rotation
 
 
+![Screenshot 2025-04-30 103959](https://github.com/user-attachments/assets/c8cf7949-0a3f-4cfd-8b5a-dc8cfd040ef4)
 
 
 
 
 ### vi)Image Cropping
 
+
+![Screenshot 2025-04-30 104005](https://github.com/user-attachments/assets/1590f429-6280-4d31-b610-a3b2fc0176fb)
 
 
 
